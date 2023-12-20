@@ -1,4 +1,5 @@
-﻿// int N = 9;
+﻿//First variant
+// int N = 9;
 // int i;
 
 // for (i=1;i<=N;i++){
